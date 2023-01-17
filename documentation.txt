@@ -1,0 +1,13 @@
+Tools:
+CSS, React, Redux
+
+Features:
+
+Inputs: item name, url, category
+outputs: lists of items, category wise sort
+
+Features to include.
+
+Scrollable list, search for list
+
+make doc of the whole saved list
